@@ -1,6 +1,6 @@
 common.srctrait.com
 ================================================================================
-*Website for srcTrait Common*
+*Website for common.srctrait.com*
 
 
 Repository
@@ -14,7 +14,6 @@ If not, create one and tell let us know.
 
 License (Reserved)
 --------------------------------------------------------------------------------
-common.srctrait.com: Website for srcTrait Common  
+common.srctrait.com: Website for common.srctrait.com  
 Copyright (C) 2025 [Asmov LLC](https://asmov.software)  
 All rights reserved.
-
